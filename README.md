@@ -7,7 +7,6 @@ Backend Developer specializing in Spring Boot, moving toward Cloud & DevOps
 - 💼 Backend AI Engineer Intern @ FlyRank
 - 📊 Scholar — DataCamp x Data Engineering Pilipinas
 - 🌱 Building depth in cloud infrastructure & DevOps
-- 🏗️ Big on clean documentation and multi-layered architecture
 
 ---
 
