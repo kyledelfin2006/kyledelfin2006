@@ -9,9 +9,7 @@ Backend Developer specializing in Spring Boot, moving toward Cloud & DevOps
 - 🌱 Building depth in cloud infrastructure & DevOps
 
 ---
-
 ### About Me
-
 
 
 I'm building backend applications with **Spring**, packaging them with **Docker**, and using **PostgreSQL** for data storage. Aiming to shift toward cloud-native patterns and DevOps practices like observability, scaling, and deployment automation soon.
