@@ -5,8 +5,10 @@ Backend Developer specializing in Spring Boot, moving toward Cloud & DevOps
 
 - 🎓 I.T. Student @ Aklan State University (2nd Year)
 - 💼 Backend AI Engineer Intern @ FlyRank
+- 🌐 Co-Founder of @ DevGroup
 - 📊 Scholar — DataCamp x Data Engineering Pilipinas
 - 🌱 Building depth in cloud infrastructure & DevOps
+
 
 ---
 ### About Me
