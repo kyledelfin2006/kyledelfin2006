@@ -1,4 +1,4 @@
-### Hi, I'm Kyle 👋
+### Hi, I'm Elyk! 👋
 
 Backend Developer specializing in Spring Boot, moving toward Cloud & DevOps
 
