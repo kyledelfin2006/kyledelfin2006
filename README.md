@@ -15,7 +15,7 @@ I'm a 2nd-year **Software Engineering Student** passionate about building robust
 
 - 🎓 **BSIT - Software Engineering Major** @ Aklan State University (2nd Year)  
 - 💼 **Backend AI Engineer Intern** @ FlyRank  
-- 👥 **Co‑Founder** of [DevGroup](https://github.com/DevGroup)  
+- 👥 **Co‑Founder** of [DevGuild](https://github.com/DevGuild-ASU)  
 - 📊 **Scholar** — DataCamp x Data Engineering Pilipinas  
 - 🌱 Currently deepening my knowledge in cloud infrastructure & DevOps
 
@@ -38,9 +38,9 @@ I'm a 2nd-year **Software Engineering Student** passionate about building robust
 
 ---
 
-## Co‑Founder @ DevGroup
+## Co‑Founder @ DevGuild
 
-I co‑founded **DevGroup**, a student‑led community based in Aklan, where I serve as **Vice President for Projects and Learning**.  
+I co‑founded **DevGuild**, a student‑led community based in Aklan, where I serve as **Vice President for Projects and Learning**.  
 We are a group of **15+ student developers** who:
 
 - Build **real‑world software projects**
