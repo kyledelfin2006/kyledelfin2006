@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a 2nd-year **Software Engineering Student** passionate about building robust, maintainable backend systems and moving toward cloud-native architectures.
+I'm a 2nd-year **Software Engineering Student** focused on building robust, maintainable backend systems and moving toward cloud-native architectures.
 
 
 - 🎓 **BSIT - Software Engineering Major** @ Aklan State University (2nd Year)  
