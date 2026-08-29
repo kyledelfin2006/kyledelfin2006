@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm Elyk! 👋</h1>
+<h1 align="center">Hi, I'm Elyk! </h1>
 <h3 align="center">Backend Developer · Spring Boot · Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
@@ -10,14 +10,12 @@
 
 ## About Me
 
-I'm a 2nd-year **Software Engineering Student** focused on building robust, maintainable backend systems and moving toward cloud-native architectures.
+I'm a 2nd-year Software Engineering Student focused on building robust, maintainable backend systems and moving toward cloud-native architectures.
 
-
-- 🎓 **BSIT - Software Engineering Major** @ Aklan State University (2nd Year)  
-- 💼 **Backend AI Engineer Intern** @ FlyRank  
-- 👥 **Co‑Founder** of [DevGuild](https://github.com/DevGuild-ASU)  
-- 📊 **Scholar** — DataCamp x Data Engineering Pilipinas  
-- 🌱 Currently deepening my knowledge in cloud infrastructure & DevOps
+-  **BSIT - Software Engineering Major** @ Aklan State University (2nd Year)  
+-  **Backend AI Engineer Intern** @ FlyRank  
+-  **Co‑Founder** of [DevGuild](https://github.com/DevGuild-ASU)  
+-  **Scholar** — DataCamp x Data Engineering Pilipinas  
 
 ---
 
@@ -25,10 +23,10 @@ I'm a 2nd-year **Software Engineering Student** focused on building robust, main
 
 **My current focus:**
 
--  Building maintainable **Spring Boot** backends  
+- Modular **Spring Boot** REST APIs with system design focus, layered architecture, and decoupled components.
 -  Designing clean, scalable **PostgreSQL** schemas  
--  Containerizing applications with **Docker**  
--  Applying software engineering principles (SOLID, design patterns, CI/CD)
+-  Containerizing services using **Docker** for reproducible builds and consistent deployments.
+-  Engineering autonomous AI agents and fine-tuning prompts for reliable LLM outputs.
 
 **What I’m learning next:**
 
@@ -49,7 +47,7 @@ We are a group of **25+ student developers** who:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-21+-ED8B00?style=flat&logo=java&logoColor=white)
