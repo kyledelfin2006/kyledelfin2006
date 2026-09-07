@@ -38,7 +38,7 @@ I'm a 2nd-year Software Engineering Student focused on building robust, maintain
 
 ## Co‑Founder @ DevGuild
 
-I co‑founded **DevGuild**, a student‑led developer community based in Aklan, where I serve as **Vice President for Projects and Learning**.  
+I co‑founded **DevGuild**, a student‑led developer community based in Aklan, where I serve as **Chief Operations Officer**.  
 We are a group of **25+ student developers** who:
 
 - Build **real‑world software projects**
