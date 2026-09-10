@@ -1,89 +1,90 @@
-<!-- Header -->
-<h1 align="center">Hi, I'm Elyk! </h1>
+# <div align="center">Hi, I'm Elyk! 👋</div>
+
 <h3 align="center">Backend Developer · Spring Boot · Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kyledelfin2006&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <a href="https://delfin-portfolio.onrender.com">Visit my portfolio website!</a>
 </p>
 
 ---
 
 ## About Me
 
-I'm a 2nd-year Software Engineering Student focused on building robust, maintainable backend systems and moving toward cloud-native architectures.
+I'm a 2nd-year Software Engineering student focused on building robust, maintainable backend systems and moving toward cloud-native architectures.
 
--  **BSIT - Software Engineering Major** @ Aklan State University (2nd Year)  
--  **Backend AI Engineer Intern** @ FlyRank 
--  **Co‑Founder** of [DevGuild](https://github.com/DevGuild-ASU)  
--  **Scholar** — DataCamp x Data Engineering Pilipinas  
-
----
+- **BSIT — Software Engineering Major** @ Aklan State University (2nd Year)
+- **Backend AI Engineer Intern** @ FlyRank
+- **Co-Founder** of [DevGuild](https://github.com/DevGuild-ASU)
+- **Scholar** — DataCamp x Data Engineering Pilipinas
 
 ## What I'm Building & Learning
 
-**My current focus:**
+**Current focus:**
 
-- Modular **Spring Boot** REST APIs with system design focus, layered architecture, and decoupled components.
--  Designing clean, scalable **PostgreSQL** schemas  
--  Containerizing services using **Docker** for reproducible builds and consistent deployments.
--  Engineering autonomous AI agents and fine-tuning prompts for reliable LLM outputs.
+- Modular **Spring Boot** REST APIs with system design, layered architecture, and decoupled components
+- Clean, scalable **PostgreSQL** schemas
+- Containerized services with **Docker** for reproducible builds and consistent deployments
+- Autonomous AI agents and prompt engineering for reliable LLM outputs
 
-**What I’m learning next:**
+**Learning next:**
 
-- AWS cloud services & infrastructure  
-- Secure DevOps pipelines & deployment automation  
+- AWS cloud services and infrastructure
+- Secure DevOps pipelines and deployment automation
 - Responsible AI integration in production systems
 
----
+## Co-Founder @ DevGuild
 
-## Co‑Founder @ DevGuild
+I co-founded **DevGuild**, a student-led developer community based in Aklan, where I serve as **Chief Operations Officer**.
 
-I co‑founded **DevGuild**, a student‑led developer community based in Aklan, where I serve as **Chief Operations Officer**.  
 We are a group of **25+ student developers** who:
 
-- Build **real‑world software projects**
+- Build **real-world software projects**
 - Turn ideas into **actual products** that solve real problems
 - Learn **modern workflows** and industry tools
-
----
 
 ## Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-21+-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-✓-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-✓-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### Backend Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-✓-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-✓-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-✓-6DB33F?style=flat&logo=spring-security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-✓-59666C?style=flat&logo=hibernate&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Java-21%2B-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21+" />
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.x" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-✓-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-✓-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-✓-003B57?style=flat&logo=sqlite&logoColor=white)
+### Backend, Databases & Testing
 
-### Testing & Documentation
-![JUnit](https://img.shields.io/badge/JUnit-✓-25A162?style=flat&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-✓-00BFFF?style=flat)
-![Swagger](https://img.shields.io/badge/Swagger-✓-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-✓-FF6C37?style=flat&logo=postman&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3.x" />
+  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring MVC" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" />
+  <img src="https://img.shields.io/badge/Mockito-00BFFF?style=flat-square&logo=mockito&logoColor=white" alt="Mockito" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-✓-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-✓-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-✓-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-✓-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-✓-181717?style=flat&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-✓-C71A36?style=flat&logo=apache-maven&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+</p>
 
 ### Development Tools
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-✓-000000?style=flat&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-✓-000000?style=flat&logo=pycharm&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-✓-87CF3E?style=flat&logo=linux-mint&logoColor=white)
 
-
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white" alt="Linux Mint" />
+</p>
