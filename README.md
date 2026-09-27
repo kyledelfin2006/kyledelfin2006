@@ -36,9 +36,9 @@ I'm a 2nd-year Software Engineering student focused on building robust, maintain
 
 I co-founded **DevGuild**, a student-led developer community based in Aklan, where I serve as **Chief Operations Officer**.
 
-We are a group of **25+ student developers** who:
+We are a group of **30+ student developers** who:
 
-- Build **real-world software projects**
+- Build **real-world software projects** for external clients
 - Turn ideas into **actual products** that solve real problems
 - Learn **modern workflows** and industry tools
 
