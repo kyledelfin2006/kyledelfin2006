@@ -11,7 +11,7 @@ Replace the README image grid with one looping slideshow built from the images i
 5. Remaining assets alphabetically: `DELFIN_DWIA_AWARD.jpg`, `rsc.jpg`, `rstw-poultri.jpg`, `soma-champs.jpg`, `Tabang-Finalist.jpg`.
 
 ## Implementation
-- Preserve all original images and apply one subtle natural-color treatment to each slide.
+- Preserve all original images and apply one very subtle, near-neutral color treatment to each slide.
 - Fit every image, without cropping, into a fixed 800×600 frame with neutral padding.
 - Generate `assets/rstw-slideshow.gif` with each slide displayed for 3 seconds and continuous looping.
 - Replace the README grid with one centered image referencing the GIF.
