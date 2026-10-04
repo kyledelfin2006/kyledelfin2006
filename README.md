@@ -1,5 +1,6 @@
-<img width="2047" height="1355" alt="rstw-finalist-edit" src="https://github.com/user-attachments/assets/dd73d70f-4eb2-4523-aedf-192f1d465386" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd73d70f-4eb2-4523-aedf-192f1d465386" alt="rstw-finalist-edit" width="800" />
+</p>
 # <div align="center">Hi, I'm Elyk! 👋</div>
 
 <h3 align="center">Backend Developer · Spring Boot · Cloud & DevOps Enthusiast</h3>
