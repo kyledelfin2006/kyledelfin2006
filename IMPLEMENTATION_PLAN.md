@@ -1,9 +1,9 @@
-# README Image Gallery Implementation Plan
+# README Slideshow Implementation Plan
 
 ## Goal
-Replace the remote README hero image with a complete, consistently treated gallery sourced from `assets/`.
+Replace the README image grid with one looping slideshow built from the images in `assets/`.
 
-## Ordered gallery
+## Slide order
 1. `rstw-finalist-edit.jpg`
 2. `rstw-panel.png`
 3. `rstw-article.jpeg`
@@ -11,11 +11,13 @@ Replace the remote README hero image with a complete, consistently treated galle
 5. Remaining assets alphabetically: `DELFIN_DWIA_AWARD.jpg`, `rsc.jpg`, `rstw-poultri.jpg`, `soma-champs.jpg`, `Tabang-Finalist.jpg`.
 
 ## Implementation
-- Preserve source images and generate treated copies in a dedicated assets subfolder.
-- Apply one subtle natural-color adjustment consistently to each copy.
-- Update README to display all nine treated copies in the listed order in a two-column HTML table with descriptive alt text and consistent display sizing.
+- Preserve all original images and apply one subtle natural-color treatment to each slide.
+- Fit every image, without cropping, into a fixed 800×600 frame with neutral padding.
+- Generate `assets/rstw-slideshow.gif` with each slide displayed for 3 seconds and continuous looping.
+- Replace the README grid with one centered image referencing the GIF.
+- Remove only the redundant generated copies in `assets/filtered/`.
 
 ## Acceptance checks
-- All nine expected image files are referenced exactly once and in order.
-- Every referenced path resolves to a generated copy; originals remain intact.
-- Inspect the rendered README for ordering, sizing, and a balanced gallery layout.
+- Verify all nine GIF frames and their order, 3000 ms timing, and infinite looping.
+- Inspect the frames for consistent sizing and preserved image content; check the optimized GIF size.
+- Confirm the README references the GIF exactly once, the file exists, and `git diff --check` passes.
