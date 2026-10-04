@@ -12,12 +12,12 @@ Replace the README image grid with one looping slideshow built from the images i
 
 ## Implementation
 - Preserve all original images and apply no filter, tint, brightness, contrast, or saturation adjustments.
-- Fit every image, without cropping, into a fixed 1600×1200 frame with neutral padding; display the GIF at 800 pixels wide in the README for sharper rendering.
+- Fill a fixed 1600×1200 frame edge to edge using a centered cover crop, without padding; display the GIF at 800 pixels wide in the README for sharper rendering.
 - Generate `assets/rstw-slideshow.gif` with each slide displayed for 3 seconds and continuous looping.
 - Replace the README grid with one centered image referencing the GIF.
 - Remove only the redundant generated copies in `assets/filtered/`.
 
 ## Acceptance checks
 - Verify all nine GIF frames and their order, 3000 ms timing, and infinite looping.
-- Inspect the frames for consistent sizing and preserved image content; check the optimized GIF size.
+- Inspect the frames for edge-to-edge coverage and confirm the centered crops keep each subject legible; check the optimized GIF size.
 - Confirm the README references the GIF exactly once, the file exists, and `git diff --check` passes.
