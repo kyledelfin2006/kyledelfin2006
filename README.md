@@ -1,6 +1,26 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dd73d70f-4eb2-4523-aedf-192f1d465386" alt="rstw-finalist-edit" width="800" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="assets/filtered/rstw-finalist-edit.jpg" alt="RSTW finalist recognition" width="400" /></td>
+    <td align="center"><img src="assets/filtered/rstw-panel.png" alt="RSTW panel discussion" width="400" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/filtered/rstw-article.jpeg" alt="News article featuring the RSTW finalist" width="400" /></td>
+    <td align="center"><img src="assets/filtered/rstw-solo.jpg" alt="Solo portrait at RSTW" width="400" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/filtered/DELFIN_DWIA_AWARD.jpg" alt="DWIA award" width="400" /></td>
+    <td align="center"><img src="assets/filtered/rsc.jpg" alt="RSC event" width="400" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/filtered/rstw-poultri.jpg" alt="RSTW poultry project" width="400" /></td>
+    <td align="center"><img src="assets/filtered/soma-champs.jpg" alt="SOMA champions" width="400" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/filtered/Tabang-Finalist.jpg" alt="Tabang finalist" width="400" /></td>
+    <td></td>
+  </tr>
+</table>
+
 # <div align="center">Hi, I'm Elyk! 👋</div>
 
 <h3 align="center">Backend Developer · Spring Boot · Cloud & DevOps Enthusiast</h3>
