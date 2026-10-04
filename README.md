@@ -3,9 +3,10 @@
 </p>
 
 <p align="center">
+  <sub>Top 2 · Regional DOST - RSTW: Paindis-indis it Inobasyon Startup Competition</sub><br>
+  <sub>Top 3 · Divisional CS Fest Startup Competition</sub><br>
   <sub>Top 10 · Regional KomsaiHack 2026</sub><br>
-  <sub>Top 10 · Regional Energy Nexus RSC Hackathon</sub><br>
-  <sub>Top 2 · Regional DOST RSTW Hackathon</sub>
+  <sub>Top 10 · Regional Energy Nexus RSC Hackathon</sub>
 </p>
 
 # <div align="center">Hi, I'm Elyk! 👋</div>
