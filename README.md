@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/rstw-slideshow.gif" alt="Looping slideshow of event photos" width="800" />
+  <img src="assets/rstw-slideshow.gif" alt="Looping slideshow of event photos" width="600" />
 </p>
 
 <p align="center">
