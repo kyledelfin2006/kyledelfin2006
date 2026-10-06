@@ -95,5 +95,5 @@ We are a group of **30+ student developers** who:
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white" alt="Linux Mint" />
-  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logoUrl=https%3A%2F%2Fagents.md%2Flogos%2Fcodex.svg" alt="Codex" />
+  <img src="assets/codex-badge.svg" alt="Codex" height="20" />
 </p>

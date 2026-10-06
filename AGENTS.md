@@ -10,7 +10,7 @@ This repository contains Elyk's GitHub profile README. `README.md` presents the 
 
 ## Photo slideshow
 - `assets/rstw-slideshow.gif` is the generated slideshow embedded in the README. Keep it at 600×450 and display it at 600 pixels wide.
-- Build slides from image assets in `assets/`, excluding generated GIFs. Keep this order: `rstw-finalist-edit.jpg`, `rstw-panel.png`, `rstw-article.jpeg`, `runner up.jpeg`, `rstw-solo.jpg`, `rsc.jpg`, `DELFIN_DWIA_AWARD.jpg`, `soma-champs.jpg`, `Tabang-Finalist.jpg`. Append newly added images alphabetically after these.
+- Build slides only from raster photo assets (`.jpg`, `.jpeg`, `.png`) in `assets/`; exclude generated GIFs and SVG logos. Keep this order: `rstw-finalist-edit.jpg`, `rstw-panel.png`, `rstw-article.jpeg`, `runner up.jpeg`, `rstw-solo.jpg`, `rsc.jpg`, `DELFIN_DWIA_AWARD.jpg`, `soma-champs.jpg`, `Tabang-Finalist.jpg`. Append newly added photos alphabetically after these.
 - Preserve source images. Apply no color filter or tone adjustment. Fit the complete image inside the frame without cropping or stretching. For aspect-ratio differences, fill the frame with a softly blurred, enlarged copy of that same photo behind the full-size fitted original; avoid blank or white padding.
 - Hold each slide for about 2.5 seconds, crossfade to the next over about 0.5 seconds, and loop continuously, including the final-to-first transition.
 - When an image is added, removed, or replaced, regenerate the GIF in the same change and verify that it reflects the current assets and ordering.
