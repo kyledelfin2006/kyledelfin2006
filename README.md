@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/rstw-slideshow.gif" alt="Looping slideshow of event photos" width="600" /><br />
-  <sub>Top 2 · Regional DOST - RSTW: Paindis-indis it Inobasyon Startup Competition</sub><br>
+  <sub>Top 2 · Regional DOST - RSTW: Paindis-indis it Inobasyon: Student Startup Competition</sub><br>
   <sub>Top 3 · Divisional CS Fest Startup Competition</sub><br>
   <sub>Top 10 · Regional KomsaiHack 2026</sub><br>
   <sub>Top 10 · Regional Energy Nexus RSC Hackathon</sub>
