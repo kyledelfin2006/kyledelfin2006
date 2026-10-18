@@ -40,7 +40,7 @@ I'm a 2nd-year Software Engineering student focused on building robust, maintain
 - Secure DevOps pipelines and deployment automation
 - Responsible AI integration in production systems
 
-## Co-Founder @ DevGuild
+## Co-Founder @DevGuild
 
 I co-founded **DevGuild**, a student-led developer community based in Aklan, where I serve as a **Senior Member**.
 
