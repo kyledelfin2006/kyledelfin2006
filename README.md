@@ -1,10 +1,20 @@
 <div align="center">
-  <img src="assets/rstw-slideshow.gif" alt="Looping slideshow of event photos" width="600" /><br />
-  <sub>Top 2 · Regional DOST - RSTW: Paindis-indis it Inobasyon: Student Startup Competition</sub><br>
-  <sub>Top 3 · Divisional CS Fest Startup Competition</sub><br>
-  <sub>Top 10 · Regional KomsaiHack 2026</sub><br>
-  <sub>Top 10 · Regional Energy Nexus RSC Hackathon</sub>
+  <img src="assets/rstw-slideshow.gif" alt="Looping slideshow of event photos" width="600" />
 </div>
+
+## Things I've Done
+
+- Startup Founder - **Poultri**
+- Champion - College Of Computer Studies Programming Competition
+- Most Analytical Programmer - Department Of Information Technology **Region VI** Python Programming Essential Training.
+- Built **Project Tabang** for KomsaiHack 2026, placing 7th among more than 25 teams.
+- Built **GasUp365** for Ready, Spark, Charge 2026, placing 6th among more than 25 teams.
+- Top 2 · Regional DOST - RSTW: Paindis-indis it Inobasyon: Student Startup Competition
+- Top 3 · Divisional CS Fest Startup Competition
+- Top 5 · Regional Western Visayas Hack4Gov5
+- Top 10 · Regional KomsaiHack 2026
+- Top 10 · Regional Energy Nexus RSC Hackathon
+- Scholar — DataCamp x Data Engineering Pilipinas
 
 # <div align="center">Hi, I'm Elyk! 👋</div>
 
@@ -23,7 +33,6 @@ I'm a 2nd-year Software Engineering student focused on building robust, maintain
 - **BSIT — Software Engineering Major** @ Aklan State University (2nd Year)
 - **Backend AI Engineer Intern** @ FlyRank
 - **Co-Founder** of [DevGuild](https://github.com/DevGuild-ASU)
-- **Scholar** — DataCamp x Data Engineering Pilipinas
 
 ## What I'm Building & Learning
 
