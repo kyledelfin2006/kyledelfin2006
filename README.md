@@ -91,6 +91,7 @@ We are a group of **30+ student developers** who:
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white" alt="Linux Mint" />
   <img src="assets/codex-badge.svg" alt="Codex" height="20" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claudecode&logoColor=white" alt="Claude Code" />
 </p>
 
 ## Things I've Done
