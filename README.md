@@ -97,6 +97,8 @@ We are a group of **30+ student developers** who:
 ## Things I've Done
 
 - Startup Founder - **Poultri**
+- Software Developer - **BetterAklan**
+- Co-Founder - **DevGuild**
 - Champion - College Of Computer Studies Programming Competition
 - Top 2 · Regional DOST - RSTW: Paindis-indis it Inobasyon: Student Startup Competition
 - Top 3 · Divisional CS Fest Startup Competition
