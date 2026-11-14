@@ -23,15 +23,17 @@ I'm a 2nd-year Software Engineering student focused on building robust, maintain
 
 ## What I'm Building & Learning
 
+**Projects:**
+
+
+
+
 **Current focus:**
 
 - Modular **Spring Boot** REST APIs with system design, layered architecture, and decoupled components
 - Clean, scalable **PostgreSQL** schemas
 - Containerized services with **Docker** for reproducible builds and consistent deployments
 - Autonomous AI agents and prompt engineering for reliable LLM outputs
-
-**Learning next:**
-
 - AWS cloud services and infrastructure
 - Secure DevOps pipelines and deployment automation
 - Responsible AI integration in production systems
