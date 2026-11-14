@@ -38,7 +38,7 @@ I'm a 2nd-year Software Engineering student focused on building robust, maintain
 
 ## Co-Founder @DevGuild
 
-I co-founded **DevGuild**, a student-led developer community based in Aklan, where I serve as a **Senior Member**.
+I co-founded **ASU Developer's Guild**, a student-led developer community based in Aklan, where I serve as a **Senior Member**.
 
 We are a group of **30+ student developers** who:
 
