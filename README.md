@@ -25,8 +25,9 @@ I'm a 2nd-year Software Engineering student focused on building robust, maintain
 
 **Projects:**
 
-
-
+- [**Libro**](https://github.com/kyledelfin2006/libro-library-system) — A full-stack library management system built with Spring Boot, React, and PostgreSQL for managing book inventory, user accounts, and loans.
+- [**Kofi**](https://github.com/kyledelfin2006/kofi-pos-and-inventory-system) — An offline, Java-based POS and inventory management system for local café owners in Kalibo.
+- [**Tabang**](https://github.com/kyledelfin2006/tabang-hackathon-project) — Where Aklan residents can report flooding and request help, while MDRRMO staff monitor and manage incidents through a dedicated dashboard.
 
 **Current focus:**
 
