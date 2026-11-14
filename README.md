@@ -29,14 +29,6 @@ I'm a 2nd-year Software Engineering student focused on building robust, maintain
 
 [**Tabang**](https://github.com/kyledelfin2006/tabang-hackathon-project) — Aklan residents can report flooding and request help, while MDRRMO staff monitor and manage incidents through a dashboard.
 
-**Current focus:**
-
-- Modular **Spring Boot** REST APIs with system design, layered architecture, and decoupled components
-- Clean, scalable **PostgreSQL** schemas
-- Containerized services with **Docker** for reproducible builds and consistent deployments
-- Secure DevOps pipelines and deployment automation
-- Responsible AI integration in production systems
-
 ## Co-Founder @DevGuild
 
 I co-founded **ASU Developer's Guild**, a student-led developer community based in Aklan, where I serve as a **Senior Member**.
