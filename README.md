@@ -27,7 +27,7 @@ I'm a 2nd-year Software Engineering student focused on building robust, maintain
 
 [**Kofi**](https://github.com/kyledelfin2006/kofi-pos-and-inventory-system) — An offline, Java-based POS and inventory management system for local café owners in Kalibo.
 
-[**Tabang**](https://github.com/kyledelfin2006/tabang-hackathon-project) — Aklan residents can report flooding and request help, while MDRRMO staff monitor and manage incidents through a dashboard.
+[**Tabang**](https://github.com/kyledelfin2006/tabang-hackathon-project) — PWA for Aklan residents: report flooding and request help, while MDRRMO staff monitor and manage incidents via a dashboard.
 
 ## Co-Founder @DevGuild
 
